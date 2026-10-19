@@ -434,6 +434,12 @@
     "backgroundColor": "oklch(22.0% 0.032 60.0 / 1)",
     "mainColor": "oklch(68.0% 0.095 70.0 / 1)",
     "secondaryColor": "oklch(58.0% 0.075 55.0 / 1)"
-  }
+  },
+  {
+  id: 'sakura-ink',
+  backgroundColor: 'oklch(88.0% 0.030 340.0 / 1)',
+  mainColor: 'oklch(55.0% 0.170 350.0 / 1)',
+  secondaryColor: 'oklch(35.0% 0.020 260.0 / 1)'
+}
 ]
 
